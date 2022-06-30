@@ -15,6 +15,6 @@ Step 3: Open xampp and start the apache and MySQL.
 
 Step 4: Open a browser and go to URL "http://localhost/phpmyadmin/" click on databases tab and Create database naming "newrent". Click on browse file and select "newrent.sql" file which is inside "database" folder and after import click "go".
 
-Step 5: Open a browser and go to URL "http://localhost/Management-Of-Real-Estate-System/index.php".
+Step 5: Open a browser and go to URL "http://localhost/Tourguide/index.php".
 
 Step 6: Final Step Just provide the Admin’s login detail, it will redirect you to Admin panel. Admin Username : admin Password : admin
